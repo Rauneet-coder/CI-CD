@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-console.log("This is a CI/CD pipeline example.");
+console.lg("This is a CI/CD pipeline example.");
